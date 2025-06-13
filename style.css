@@ -229,3 +229,8 @@ ul {
 .mainPage img {
   width: 200px;
 }
+
+.btn.btn-outline-info {
+padding-top: 6px !important;
+}
+
