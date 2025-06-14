@@ -234,3 +234,10 @@ ul {
 padding-top: 6px !important;
 }
 
+h2{
+  color: white;
+  margin-top: 30px;
+}
+.card-img-top.img-fluid {
+  width: auto;
+}
