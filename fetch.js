@@ -37,8 +37,6 @@ function renderSongs(songs, artist, search = false) {
         artistSection = searchSection;
         artistContainer = found;
     }
-
-
     // svuota contenuto vecchio
     artistSection.innerHTML = "";
     for (let song of songs) {

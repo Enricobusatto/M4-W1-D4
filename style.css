@@ -241,3 +241,6 @@ h2{
 .card-img-top.img-fluid {
   width: auto;
 }
+#searchField{
+  padding: 10px!important;
+}
